@@ -1,0 +1,18 @@
+IF, THEN
+pelo,mamífero
+leite,mamífero
+penas,ave
+voa & bota-ovos,ave
+mamífero & come-carne,carnívoro
+mamífero & dentes-pontiagudos & garras & olhos-frontais,carnívoro
+mamífero & casco,ungulado
+mamífero & rumina & dedos-pares,ungulado
+carnívoro & amarelo-tostado & manchas-escuras,leopardo
+carnívoro & amarelo-tostado & listras-pretas,tigre
+ungulado & pernas-longas & pescoço-comprido & amarelo-tostado & manchas-escuras,girafa
+ungulado & branca & listras-pretas,zebra
+ave & pernas-longas & pescoço-comprido & preto-e-branco,avestruz
+ave & não-voa & nada & preto-e-branco,pinguim
+ave & bom-voador,albatroz
+ave & corpo-arredondado & penas-densas & não-voa & doméstico,galinha
+ave & pernas-longas & pescoço-comprido & cauda-curta & rosa,flamingo

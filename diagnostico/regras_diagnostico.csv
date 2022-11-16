@@ -1,0 +1,9 @@
+IF, THEN
+fadiga & dor-de-cabeça & dores-no-corpo & dores-de-garganta & tosse,covid19(FC = 0.80)
+dor-de-cabeça & garganta-inflamada & tosse,gripe(FC = 0.90)
+cansaço & dor-de-cabeça,mononucleose infecciosa(FC = 0.95)
+cansaço & garganta-inflamada,amigdalite(FC = 0.90)
+cansaço,estresse(FC = 0.70)
+fadiga & dor-de-cabeça & pulsação-elevada & baixo-nível-oxigênio & perda-de-olfato & perda-de-paladar,covid19(FC = 0.90)
+coriza & espirro,rinite alérgica(FC = 0.85)
+dor-de-cabeça & coriza,sinusite(FC = 0.80)
